@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/sctsim/eclipse-cpp-workspace/Simple_SCT_Simulator",
+  "command": "/bin/c++  -I/home/sctsim/eclipse-cpp-workspace/Simple_SCT_Simulator  -o CMakeFiles/Simple_SCT_Simulator.dir/Simple_SCT_Simulator.cpp.o -c /home/sctsim/eclipse-cpp-workspace/Simple_SCT_Simulator/Simple_SCT_Simulator.cpp",
+  "file": "/home/sctsim/eclipse-cpp-workspace/Simple_SCT_Simulator/Simple_SCT_Simulator.cpp"
+}
+]

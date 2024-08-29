@@ -1,0 +1,2 @@
+#define Simple_SCT_Simulator_VERSION_MAJOR @Simple_SCT_Simulator_VERSION_MAJOR@
+#define Simple_SCT_Simulator_VERSION_MINOR @Simple_SCT_Simulator_VERSION_MINOR@
